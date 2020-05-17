@@ -28,7 +28,7 @@ The notebook available here showcases work related to the above questions.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@joshua.chyeung/go-to-the-western-world-if-you-are-a-programmer-1ccfac7e413a).
+The main findings of the code can be found at the post available [here](https://medium.com/@sstudentdata/three-reasons-why-you-should-continue-your-programming-career-in-the-western-countries-of-the-world-b0aca4e82e39).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
